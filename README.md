@@ -1,5 +1,4 @@
 # Blog
-My First Blog
 <!DOCTYPE html>
 <html>
 <head>
